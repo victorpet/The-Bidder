@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">The Bidder</string>
+    <string name="slogan">The greatest bidding \n app ever created</string>
+    <string name="title_activity_login">Login</string>
+    <string name="hintemail">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Continue bidding</string>
+    <string name="or">Or</string>
+
+    <string name="signup">Sign Up to become the greatest bidder</string>
+    <string name="invalidemail">Type a valid email</string>
+    <string name="invalidpass">Your password cannot be empty</string>
+
+</resources>
